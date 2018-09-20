@@ -297,12 +297,12 @@
 			<Item Name="SNMP Type Num to Type String.vi" Type="VI" URL="../gateway/Simple_SNMP/SNMP Type Num to Type String.vi"/>
 			<Item Name="SNMP Type to String.vi" Type="VI" URL="../gateway/Simple_SNMP/SNMP Type to String.vi"/>
 			<Item Name="spectre status snmp .vi" Type="VI" URL="../gateway/spectre status snmp .vi"/>
-			<Item Name="traffic control controller.vi" Type="VI" URL="../trafic_control/traffic control controller.vi"/>
-			<Item Name="traffic control lights IO.vi" Type="VI" URL="../trafic_control/traffic control lights IO.vi"/>
-			<Item Name="traffic control monitor.vi" Type="VI" URL="../trafic_control/traffic control monitor.vi"/>
-			<Item Name="traffic control puls.vi" Type="VI" URL="../trafic_control/traffic control puls.vi"/>
-			<Item Name="traffic control sms IO.vi" Type="VI" URL="../trafic_control/traffic control sms IO.vi"/>
-			<Item Name="traffic control status IO.vi" Type="VI" URL="../trafic_control/traffic control status IO.vi"/>
+			<Item Name="traffic control controller.vi" Type="VI" URL="../traffic_control/traffic control controller.vi"/>
+			<Item Name="traffic control lights IO.vi" Type="VI" URL="../traffic_control/traffic control lights IO.vi"/>
+			<Item Name="traffic control monitor.vi" Type="VI" URL="../traffic_control/traffic control monitor.vi"/>
+			<Item Name="traffic control puls.vi" Type="VI" URL="../traffic_control/traffic control puls.vi"/>
+			<Item Name="traffic control sms IO.vi" Type="VI" URL="../traffic_control/traffic control sms IO.vi"/>
+			<Item Name="traffic control status IO.vi" Type="VI" URL="../traffic_control/traffic control status IO.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="RMAD config" Type="EXE">
