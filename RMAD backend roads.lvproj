@@ -322,7 +322,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{030D439C-E4C0-4B66-AD88-BFA93A589203}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">RMAD config.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/RMAD config.exe</Property>
@@ -392,7 +392,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{AD2A2505-91BB-405A-9B6C-25BB40C62FA3}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">RMAD logger.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/RMAD logger.exe</Property>
@@ -539,7 +539,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{10E42612-8F3D-4B07-9898-0F7193AFC850}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">RMAD traffic control.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/RMAD traffic control.exe</Property>
